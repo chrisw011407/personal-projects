@@ -3,14 +3,14 @@
 This repo is where I store all my personal projects. Below is a brief description of each project/file in the repo. Project categories are organized alphabetically.
 
 
-# Conic fitting
+** Conic fitting **
 
 _conicfits.py_ – a program that takes a set of data, organises it, then uses a conic fitting method based on polar n-dir geometric distance to get a best fit. Done as an assignment for Differential Geometry. 
 
 _conicfit example.png_ – Plot of the conic fit over some data.
 
 
-# Julia sets
+** Julia sets **
 
 _julia.py_ – a program that takes user input of a complex number, the dimensions of the resulting graph, and the resolution of said Julia set. 
 
